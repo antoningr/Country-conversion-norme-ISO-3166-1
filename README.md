@@ -41,7 +41,7 @@ The project is available on the site [Github](https://github.com/) on the link :
 - Go to the directory where you want to save the project.
 - Type the following command to clone the project from the Git repository:
 ```
-git clone https://github.com/antoningr/Country-conversion-norme-ISO-3166-1-.git
+git clone https://github.com/antoningr/Country-conversion-norme-ISO-3166-1.git
 ```
 - Press "Enter" to run the command. Git will then download the project to the current directory.
 
